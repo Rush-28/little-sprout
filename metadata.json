@@ -1,0 +1,9 @@
+{
+  "name": "Little Sprouts Premium Play School",
+  "description": "A high-end, parent-friendly web application for a premium play school featuring virtual tours, interactive fee calculators, and AI-driven curriculum assistance.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
